@@ -1,0 +1,13 @@
+/home/zero/Desktop/KSP/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.deps.json
+/home/zero/Desktop/KSP/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.dll
+/home/zero/Desktop/KSP/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.pdb
+/home/zero/Desktop/KSP/Aplicacion/bin/Debug/netstandard2.0/Dominio.dll
+/home/zero/Desktop/KSP/Aplicacion/bin/Debug/netstandard2.0/Persistencia.dll
+/home/zero/Desktop/KSP/Aplicacion/bin/Debug/netstandard2.0/Dominio.pdb
+/home/zero/Desktop/KSP/Aplicacion/bin/Debug/netstandard2.0/Persistencia.pdb
+/home/zero/Desktop/KSP/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.csprojAssemblyReference.cache
+/home/zero/Desktop/KSP/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.AssemblyInfoInputs.cache
+/home/zero/Desktop/KSP/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.AssemblyInfo.cs
+/home/zero/Desktop/KSP/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.csproj.CopyComplete
+/home/zero/Desktop/KSP/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.dll
+/home/zero/Desktop/KSP/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.pdb

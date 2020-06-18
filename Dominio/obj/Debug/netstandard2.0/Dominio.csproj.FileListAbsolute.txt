@@ -1,0 +1,8 @@
+/home/zero/Desktop/KSP/Dominio/bin/Debug/netstandard2.0/Dominio.deps.json
+/home/zero/Desktop/KSP/Dominio/bin/Debug/netstandard2.0/Dominio.dll
+/home/zero/Desktop/KSP/Dominio/bin/Debug/netstandard2.0/Dominio.pdb
+/home/zero/Desktop/KSP/Dominio/obj/Debug/netstandard2.0/Dominio.csprojAssemblyReference.cache
+/home/zero/Desktop/KSP/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfoInputs.cache
+/home/zero/Desktop/KSP/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfo.cs
+/home/zero/Desktop/KSP/Dominio/obj/Debug/netstandard2.0/Dominio.dll
+/home/zero/Desktop/KSP/Dominio/obj/Debug/netstandard2.0/Dominio.pdb

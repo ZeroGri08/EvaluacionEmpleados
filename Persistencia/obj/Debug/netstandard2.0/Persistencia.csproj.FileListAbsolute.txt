@@ -1,0 +1,11 @@
+/home/zero/Desktop/KSP/Persistencia/bin/Debug/netstandard2.0/Persistencia.deps.json
+/home/zero/Desktop/KSP/Persistencia/bin/Debug/netstandard2.0/Persistencia.dll
+/home/zero/Desktop/KSP/Persistencia/bin/Debug/netstandard2.0/Persistencia.pdb
+/home/zero/Desktop/KSP/Persistencia/bin/Debug/netstandard2.0/Dominio.dll
+/home/zero/Desktop/KSP/Persistencia/bin/Debug/netstandard2.0/Dominio.pdb
+/home/zero/Desktop/KSP/Persistencia/obj/Debug/netstandard2.0/Persistencia.csprojAssemblyReference.cache
+/home/zero/Desktop/KSP/Persistencia/obj/Debug/netstandard2.0/Persistencia.AssemblyInfoInputs.cache
+/home/zero/Desktop/KSP/Persistencia/obj/Debug/netstandard2.0/Persistencia.AssemblyInfo.cs
+/home/zero/Desktop/KSP/Persistencia/obj/Debug/netstandard2.0/Persistencia.csproj.CopyComplete
+/home/zero/Desktop/KSP/Persistencia/obj/Debug/netstandard2.0/Persistencia.dll
+/home/zero/Desktop/KSP/Persistencia/obj/Debug/netstandard2.0/Persistencia.pdb
