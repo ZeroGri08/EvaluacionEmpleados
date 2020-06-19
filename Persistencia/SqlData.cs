@@ -5,7 +5,7 @@ using Persistencia.Interface;
 
 namespace Persistencia
 {
-    public class SqlData: IData
+    public class SqlData : IData
     {
         
             private readonly DataContext _context;
@@ -42,6 +42,7 @@ namespace Persistencia
             {
                 var empleado = new Empleado{Id = id};
                 _context.Empleados.Remove(empleado);
+                _context.SaveChanges();
                 return true;
             }
 

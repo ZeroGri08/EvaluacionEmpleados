@@ -8,8 +8,8 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20200618170436_Migracion_v5")]
-    partial class Migracion_v5
+    [Migration("20200619064630_Inicial")]
+    partial class Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -61,7 +61,7 @@ namespace Persistencia.Migrations
                     b.Property<string>("estatus")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("fechaContrato")
+                    b.Property<string>("fecCont")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("foto")

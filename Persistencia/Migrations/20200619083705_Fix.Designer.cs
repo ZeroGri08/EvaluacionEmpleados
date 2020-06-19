@@ -8,8 +8,8 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20200618205139_v8")]
-    partial class v8
+    [Migration("20200619083705_Fix")]
+    partial class Fix
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -52,13 +52,16 @@ namespace Persistencia.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("apMaterno")
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("apPaterno")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("estatus")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("fechaContrato")
+                    b.Property<string>("fecCont")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("foto")

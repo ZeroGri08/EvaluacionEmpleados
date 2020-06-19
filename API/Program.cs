@@ -26,7 +26,9 @@ namespace API
                     var context = services.GetRequiredService<DataContext>();
                     context.Database.Migrate();
                 }catch(Exception ex){
+                    var logger = services.GetRequiredService<ILogger>();
 
+                    logger.LogError("Error",ex.ToString());
                 }
             }
             host.Run();

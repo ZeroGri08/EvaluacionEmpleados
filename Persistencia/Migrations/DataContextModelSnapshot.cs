@@ -50,13 +50,16 @@ namespace Persistencia.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("apMaterno")
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("apPaterno")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("estatus")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("fechaContrato")
+                    b.Property<string>("fecCont")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("foto")

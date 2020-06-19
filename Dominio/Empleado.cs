@@ -10,12 +10,16 @@ namespace Dominio
 
         public string apPaterno{get; set;}
 
+        public string apMaterno{get; set;}
+
+
         public string puesto{get; set;}
+        
         public int salario{get; set;}
 
         public string estatus{get; set;}
 
-        public string fechaContrato{get; set;}
+        public string fecCont{get; set;}
         
     }
 }

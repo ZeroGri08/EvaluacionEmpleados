@@ -2,7 +2,7 @@
 
 namespace Persistencia.Migrations
 {
-    public partial class Migracion_v5 : Migration
+    public partial class Fix : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

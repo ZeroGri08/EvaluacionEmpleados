@@ -30,13 +30,14 @@ namespace Persistencia.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    Foto = table.Column<string>(nullable: true),
-                    Nombre = table.Column<string>(nullable: true),
-                    ApPaterno = table.Column<string>(nullable: true),
+                    foto = table.Column<string>(nullable: true),
+                    nombre = table.Column<string>(nullable: true),
+                    apPaterno = table.Column<string>(nullable: true),
+                    apMaterno = table.Column<string>(nullable: true),
                     puesto = table.Column<string>(nullable: true),
-                    Salario = table.Column<int>(nullable: false),
+                    salario = table.Column<int>(nullable: false),
                     estatus = table.Column<string>(nullable: true),
-                    fechaContratacion = table.Column<string>(nullable: true)
+                    fecCont = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
                 {
